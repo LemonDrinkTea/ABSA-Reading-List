@@ -388,6 +388,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
  ## 2. Cross-Domain ABSA
  
  ### 2.1 Cross-Domain Aspect Extraction
+1. Eyal Ben-David, Nadav Oved, Roi Reichart. **PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains**. TACL 2022.[[paper]](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00468/2008061/tacl_a_00468.pdf)
 1. Lekhtman, Entony and Ziser, Yftah and Reichart, Roi. **DILBERT: Customized Pre-Training for Domain Adaptation with Category Shift, with an Application to Aspect Extraction**. EMNLP 2021.[[paper]](https://aclanthology.org/2021.emnlp-main.20.pdf)
 1. Zhuang Chen and Tieyun Qian. **Bridge-Based Active Domain Adaptation for Aspect Term Extraction**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.27.pdf)
 1. Tao Liang, Wenya Wang and Fengmao Lv. **Weakly Supervised Domain Adaptation for Aspect Extraction via Multi-level Interaction Transfer**. IEEE TNNLS 2021. [[paper]](https://arxiv.org/abs/2006.09235)
@@ -395,6 +396,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 2.2 Cross-Domain Aspect-Opinion Co-Extraction
+1. Junjie Li, Jianfei Yu, and Rui Xia. **Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction**. NAACL 2022. [[paper]](https://aclanthology.org/2022.naacl-main.312.pdf)
 1. Oren Pereg, Daniel Korat, and Moshe Wasserblat. **Syntactically Aware Cross-Domain Aspect and Opinion Terms Extraction**. COLING 2020. [[paper]](https://aclanthology.org/2020.coling-main.158.pdf)
 1. Wenya Wang and Sinno Jialin Pan. **Syntactically-Meaningful and Transferable Recursive Neural Networks for Aspect and Opinion Extraction**. Computational Linguistics (CL) 2019. [[paper]](https://aclanthology.org/J19-4004.pdf)
 1. Wenya Wang and Sinno Jialin Pan. **Transferable Interactive Memory Network for Domain Adaptation in Fine-grained Opinion Extraction**. AAAI 2019. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4703/4581)
@@ -408,6 +410,7 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 
 ### 2.4 Cross-Domain Aspect-Sentiment Pair Extraction
+1. Zhuang Chen, Tieyun Qian. **Retrieve-and-Edit Domain Adaptation for End2End Aspect Based Sentiment Analysis**. IEEE-ACM T AUDIO SP. [[paper]](https://ieeexplore.ieee.org/abstract/document/9693267)
 1. Jianfei Yu, Chenggong Gong, and Rui Xia. **Cross-Domain Review Generation for Aspect-Based Sentiment Analysis**. ACL 2021，Findings. [[paper]](https://aclanthology.org/2021.findings-acl.421.pdf) [[code]](https://github.com/NUSTM/CDRG)
 1. Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, and Songlin Hu. **An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis**. AAAI 2021. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17719)
 1. Chenggong Gong, Jianfei Yu, and Rui Xia. **Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis**. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf) [[code]](https://github.com/NUSTM/BERT-UDA)
